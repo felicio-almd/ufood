@@ -7,7 +7,7 @@ git clone https://github.com/felicio-almd/ufood.git
 
 cd ufood
 
-cp .env .env.example
+cp .env.example .env 
 
 (muda as variaveis de ambiente)
 
